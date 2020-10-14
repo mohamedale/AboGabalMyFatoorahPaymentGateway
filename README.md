@@ -15,35 +15,12 @@
  can load it by include
  `config/config.php` And `src/autoload.php` 
  then run our classes as follows: <br>
- 1- `initiatePayment` Class, this step will simply
+1- `initiatePayment` Class, this step will simply
   return you all available 
-  <a href="https://myfatoorah.readme.io/docs/payment-methods">
-  Payment Methods</a>
-  for the account with the actual charge that the customer will
-  pay on the gateway. 
-  <a href="https://myfatoorah.readme.io/docs/api-initiate-payment">
-    Example for request and response
-  </a><br> 
- 2- `executePayment` Class, once the payment
-  has been initiated, this step will do
-  execute the actual transaction creation
-  at MyFatoorah platform and will 
-  return to your application the URL 
-  to redirect your customer to make the payment. 
-  <a href="https://myfatoorah.readme.io/docs/api-execute-payment">
-    Example for request and response
-  </a><br>
- 3- `checkoutPayment` Class, these class will checkout your
-  purchase process. 
-  <a href="https://myfatoorah.readme.io/docs/api-direct-payment">
-    Example for request and response
-  </a><br>
- 4- `paymentEnquiry` Class, finally these class get your payment status
- and all information that you put it and the api response of billing
- status after confirm your payment process.
- <a href="https://myfatoorah.readme.io/docs/api-payment-enquiry">
-   Example for request and response
- </a>.<br>
+  <a href="https://myfatoorah.readme.io/docs/payment-methods">Payment Methods</a> for the account with the actual charge that the customer will pay on the gateway. <a href="https://myfatoorah.readme.io/docs/api-initiate-payment"> Example for request and response</a><br> 
+2- `executePayment` Class, once the payment has been initiated, this step will do execute the actual transaction creation at MyFatoorah platform and will return to your application the URL to redirect your customer to make the payment. <a href="https://myfatoorah.readme.io/docs/api-execute-payment">Example for request and response</a><br>
+3- `checkoutPayment` Class, these class will checkout your purchase process. <a href="https://myfatoorah.readme.io/docs/api-direct-payment">Example for request and response</a><br>
+4- `paymentEnquiry` Class, finally these class get your payment status and all information that you put it and the api response of billing status after confirm your payment process. <a href="https://myfatoorah.readme.io/docs/api-payment-enquiry">Example for request and response</a>.<br>
   
 **<h3>For test apis away from our app.</h3>**
 - Please visit this
