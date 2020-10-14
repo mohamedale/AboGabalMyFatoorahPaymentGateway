@@ -23,8 +23,7 @@
 4- `paymentEnquiry` Class, finally these class get your payment status and all information that you put it and the api response of billing status after confirm your payment process. <a href="https://myfatoorah.readme.io/docs/api-payment-enquiry">Example for request and response</a>.<br>
   
 **<h3>For test apis away from our app.</h3>**
-- Please visit this
-<a href="https://apitest.myfatoorah.com/swagger/ui/index#/Payment">link</a>.
+- Please visit this <a href="https://apitest.myfatoorah.com/swagger/ui/index#/Payment">link</a>.
 
 **<h3>Demo information</h>.**
 - Url: `https://apitest.myfatoorah.com`
