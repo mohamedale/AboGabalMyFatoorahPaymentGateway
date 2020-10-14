@@ -67,8 +67,7 @@
 following URL https://api.myfatoorah.com
 and the API key from your portal admin access, 
 check it here 
-<a href="https://myfatoorah.readme.io/docs/create-live-account">
-Create Live Account</a>.<br>
+<a href="https://myfatoorah.readme.io/docs/create-live-account">Create Live Account</a>.<br>
 
 **Notices:** 
 - For replace demo information with your live api key
