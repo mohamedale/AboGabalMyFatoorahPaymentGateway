@@ -223,7 +223,7 @@ if ($paymentEnquiry->curlErrorExist()) {
                             </div>
                         </div>
                     </div>
-                <?php } ?>
+                <? } ?>
             </div>
         <? } else { ?>
             <div class="col-12">
